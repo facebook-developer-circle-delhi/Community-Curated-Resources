@@ -1,4 +1,4 @@
-# [Topic Name] Related Resources
+# Javascript Related Resources
 
 ## For Beginners
 
