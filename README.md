@@ -1,2 +1,5 @@
 # Community-Curated-Resources
-Community Curated Resources for development by members of Facebook Developer Circle Delhi, NCR.
+Community Curated Resources for development by members of Facebook Developer Circle Delhi, NCR. The repository is a collection of resources which are split according to technologies/languages/frameworks. Each topic has a MD file for it. The contents of a file are divided into three levels which are the level of expertise required to understand the resource mentioned (beginner, intermediate and expert).
+
+## Contributing Guidelines
+If you have a resource that you would like to add to the list, add it in the appropriate section of the file. If the file does not exist, copy the [template file](../blob/master/TEMPLATE.MD) and rename it to the topic that you wish to add the resource for and then submit a pull request.
