@@ -28,15 +28,6 @@ Community Curated Resources for development by members of Facebook Developer Cir
 
 * If you have a resource that you would like to add to the list, add it in the appropriate section of the file (for that specific topic).
 
-* If the file does not exist, copy the [template file](../master/TEMPLATE.md) and rename it to the topic that you wish to add the resource for and then submit a pull request.<br /> Here's the template for quick copy-paste:
-  ```markdown
-  # [Topic Name] Related Resources
-
-  ## For Beginners
-
-  ## For People with Intermediate Level Expertise
-
-  ## For Experts
-  ```
+* If the file does not exist, copy the [template file](../master/TEMPLATE.md) and rename it to the topic that you wish to add the resource for and then submit a pull request.
 
 * If the resource is a paid one, prepend it with a [PAID] prefix to let people know.
