@@ -3,25 +3,24 @@
 Community Curated Resources for development by members of Facebook Developer Circle Delhi, NCR. The repository is a collection of resources which are split according to technologies/languages/frameworks. Each topic has a MD file for it. The contents of a file are divided into three levels which are the level of expertise required to understand the resource mentioned (beginner, intermediate and expert).
 
 
-
 ## Resources
 
-### [Angular](./Angular.md)
+#### Core Languages
 
-### [C#](./CSharp.md)
+ - [C#](./CSharp.md)
+ - [Golang](./Go.md)
+ - [Python](./Python.md)
+ - [Javascript](./Javascript.md)
 
-### [Golang](./Go.md)
+#### Web Development
 
-### [Javascript](./Javascript.md)
+ - [Angular](./Angular.md) - TypeScript-based Front-End Web Application 
+ - [ReactJS ](./ReactJS.md) - A JavaScript Library for building User Interfaces
+ - [Django](./Django.md) - A High-level Python Web framework
 
-### [ReactJS ](./ReactJS.md)
+#### Libraries
 
-### [Redux](./Redux.md)
-
-### [Python](./Python.md)
-
-### [Django - Python Framework](./Django.md)
-
+ - [Redux](./Redux.md) - A predictable state container for JavaScript Apps.
 
 
 ## Contributing Guidelines
