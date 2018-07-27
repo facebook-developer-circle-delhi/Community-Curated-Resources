@@ -6,4 +6,6 @@
 
 ## For People with Intermediate Level Expertise
 
+1. [Official Docs](https://reactjs.org/docs/hello-world.html)
+
 ## For Experts
