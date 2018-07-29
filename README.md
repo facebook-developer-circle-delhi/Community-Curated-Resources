@@ -24,6 +24,8 @@ Community Curated Resources for development by members of Facebook Developer Cir
 #### Mobile Development
 
 - [Android](./Android.md)
+- [Flutter](./Flutter.md)
+
 
 ## Contributing Guidelines
 
