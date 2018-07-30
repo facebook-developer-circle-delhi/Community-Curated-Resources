@@ -10,6 +10,7 @@ Community Curated Resources for development by members of Facebook Developer Cir
 - [Golang](./Go.md)
 - [Python](./Python.md)
 - [Javascript](./Javascript.md)
+- [PHP](./PHP.md)
 
 #### Web Development
 
