@@ -8,5 +8,6 @@
 ## For People with Intermediate Level Expertise
 1. [The Django Test Driven Development Cookbook (video)](https://youtu.be/41ek3VNx_6Q)
 2. [Simple Is Better Than Complex (Blog)](https://simpleisbetterthancomplex.com/)
+3. [Support of MongoDB using Models in pymongo (Pymodm)](https://www.eazydevelop.com/2018/05/working-with-structured-data-with.html)
 
 ## For Experts
