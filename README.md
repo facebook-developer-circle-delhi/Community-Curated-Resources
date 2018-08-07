@@ -25,6 +25,14 @@ Community Curated Resources for development by members of Facebook Developer Cir
 
 - [Android](./Android.md)
 
+#### Data Science / Machine Learning
+
+- [Data Science / Machine Learning](./Data-Science.md)
+
+#### Databases
+
+- [MongoDB](./MongoDB.md)
+
 ## Contributing Guidelines
 
 - If you have a resource that you would like to add to the list, add it in the appropriate section of the file (for that specific topic).
