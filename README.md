@@ -15,7 +15,7 @@ Community Curated Resources is a collection of list of selected learning materia
 #### Data Science
 
 - [Machine Learning](./Machine_Learning.md)
-- [AArtificial Intelligence](./Deep_Learning.md)
+- [Artificial Intelligence](./Deep_Learning.md)
 
 
 #### Libraries
