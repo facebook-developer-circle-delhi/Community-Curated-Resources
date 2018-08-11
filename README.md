@@ -24,6 +24,8 @@ Community Curated Resources is a collection of list of selected learning materia
 #### Mobile Development
 
 - [Android](./Android.md)
+- [Flutter](./Flutter.md)
+
 
 ## Contributing Guidelines
 
