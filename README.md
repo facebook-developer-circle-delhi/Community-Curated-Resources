@@ -10,21 +10,31 @@ Community Curated Resources is a collection of list of selected learning materia
 - [Golang](./Go.md)
 - [Python](./Python.md)
 - [Javascript](./Javascript.md)
+- [Elixir](./Elixir.md)
+
+#### Data Science
+
+- [Machine Learning](./Machine_Learning.md)
+- [Artificial Intelligence](./Deep_Learning.md)
+
+#### Libraries
+
+- [Redux](./Redux.md) - A predictable state container for JavaScript Apps.
+
+#### Linux
+
+- [Shell Scripting](./Linux.md)
+
+#### Mobile Development
+
+- [Android](./Android.md)
+- [React Native](./ReactNative.md)
 
 #### Web Development
 
 - [Angular](./Angular.md) - TypeScript-based Front-End Web Application
 - [ReactJS ](./ReactJS.md) - A JavaScript Library for building User Interfaces
 - [Django](./Django.md) - A High-level Python Web framework
-
-#### Libraries
-
-- [Redux](./Redux.md) - A predictable state container for JavaScript Apps.
-
-#### Mobile Development
-
-- [Android](./Android.md)
-- [React Native](./ReactNative.md)
 
 ## Contributing Guidelines
 
