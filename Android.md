@@ -7,6 +7,7 @@
 1.  [Udacity Nanodegree Android Multi-screen Apps](https://www.udacity.com/course/android-basics-multi-screen-apps--ud839)
 1.  [Udacity Nanodegree Android Networking](https://www.udacity.com/course/android-basics-networking--ud843)
 1.  [Udacity Nanodegree Android Data Storage](https://www.udacity.com/course/android-basics-data-storage--ud845)
+1.  [Kotlin](https://developer.android.com/kotlin/)
 
 ## For People with Intermediate Level Expertise
 
@@ -19,4 +20,4 @@
 1.  [Google CodeLabs](https://codelabs.developers.google.com/?cat=Android)
 
 ## For Experts
-1.  [Kotlin](https://developer.android.com/kotlin/)
+
