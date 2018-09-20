@@ -36,6 +36,7 @@ Community Curated Resources is a collection of list of selected learning materia
 - [ReactJS ](./ReactJS.md) - A JavaScript Library for building User Interfaces
 - [Django](./Django.md) - A High-level Python Web framework
 - [PHP](./PHP.md)
+- [Flask](./Flask.md) - A Python Microframework
 
 ## Contributing Guidelines
 
