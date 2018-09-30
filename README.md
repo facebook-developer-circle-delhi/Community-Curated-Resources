@@ -31,7 +31,6 @@ Community Curated Resources is a collection of list of selected learning materia
 - [React Native](./ReactNative.md)
 - [Flutter](./Flutter.md)
 
-
 #### Web Development
 
 - [Angular](./Angular.md) - TypeScript-based Front-End Web Application

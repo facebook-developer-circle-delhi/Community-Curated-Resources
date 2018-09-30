@@ -9,7 +9,6 @@
 ## For People with Intermediate Level Expertise
 1. [Flutter with Firebase](https://codelabs.developers.google.com/codelabs/flutter-firebase/index.html/)
 
-
-
+## For Experts
 
 
