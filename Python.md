@@ -13,3 +13,5 @@
 1.  [Jupyter Notebooks for Data Science Libraries of Python](https://github.com/nikhilkumarsingh/PythonForDataScience)
 
 ## For Experts
+1. [Advanced Topics in Python](https://www.programiz.com/python-programming/iterator)
+2. 
