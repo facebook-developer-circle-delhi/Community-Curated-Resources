@@ -11,5 +11,5 @@
 
 ## For Experts
 1. [Some amazing useful features of MongoDB](https://www.eazydevelop.com/2018/08/some-amazing-useful-mongodb-features.html)
-2. [Geospatial Indexing](http://api.mongodb.com/python/3.7.1/examples/geo.html)
-3. [Mongodump to export database](https://docs.mongodb.com/manual/reference/program/mongodump/)
+1. [Geospatial Indexing](http://api.mongodb.com/python/3.7.1/examples/geo.html)
+1. [Mongodump to export database](https://docs.mongodb.com/manual/reference/program/mongodump/)
