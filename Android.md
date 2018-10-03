@@ -8,6 +8,7 @@
 1.  [Udacity Nanodegree Android Networking](https://www.udacity.com/course/android-basics-networking--ud843)
 1.  [Udacity Nanodegree Android Data Storage](https://www.udacity.com/course/android-basics-data-storage--ud845)
 1.  [Kotlin](https://developer.android.com/kotlin/)
+1.  [Developers Guide](https://developer.android.com/guide/)
 
 ## For People with Intermediate Level Expertise
 
