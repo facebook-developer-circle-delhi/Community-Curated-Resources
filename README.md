@@ -38,6 +38,7 @@ Community Curated Resources is a collection of list of selected learning materia
 - [Django](./Django.md) - A High-level Python Web framework
 - [PHP](./PHP.md)
 - [Flask](./Flask.md) - A Python Microframework
+- [NodeJS](.NodeJS.md) - JavaScript runtime built on Chrome's V8 JavaScript engine.
 
 ## Contributing Guidelines
 
