@@ -11,6 +11,7 @@ Community Curated Resources is a collection of list of selected learning materia
 - [Python](./Python.md)
 - [Javascript](./Javascript.md)
 - [Elixir](./Elixir.md)
+- [Ruby](./Ruby.md)
 
 #### Data Science
 
@@ -38,6 +39,7 @@ Community Curated Resources is a collection of list of selected learning materia
 - [Django](./Django.md) - A High-level Python Web framework
 - [PHP](./PHP.md)
 - [Flask](./Flask.md) - A Python Microframework
+- [Ruby on Rails](./RubyonRails.md) 
 
 ## Contributing Guidelines
 
