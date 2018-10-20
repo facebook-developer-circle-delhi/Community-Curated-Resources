@@ -8,4 +8,7 @@
 
 ## For People with Intermediate Level Expertise
 
+1. [RESTapi in Flask](https://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask)
+2. [Flask-RESTful framework](https://flask-restful.readthedocs.io/en/latest/)
+
 ## For Experts
