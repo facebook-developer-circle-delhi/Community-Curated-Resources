@@ -12,11 +12,11 @@ Checkout Swift Documentation : https://docs.swift.org/swift-book/GuidedTour/Guid
 
 - [Appcoda](http://appcoda.com/) and [Raywenderlich](http://raywenderlich.com/) are the best websites for iOS tutorials. 
 
-- Personal and best advice an iOS developer can give : Watch WWDC sessions. No one can teach iOS better then these wwdc sessions. 
+- Check out WWDC sessions at developer.apple.com 
 
 - https://in.udacity.com/course/auto-layout--ud1026 also check out similar free courses from Udacity.
 
-- You can also check : https://www.hackingwithswift.com - Books and Articles here are really good. 
+- You can also check : https://www.hackingwithswift.com - Paul Hudson iOS books are good. 
 
 
 ## For Intermediate and Experts
@@ -27,6 +27,3 @@ Checkout Swift Documentation : https://docs.swift.org/swift-book/GuidedTour/Guid
 
 - iOS Advanced debugging - https://in.udacity.com/course/ios-developer-nanodegree--nd003 Also check other Udacity free courses. 
 
-## General advice
-
-- iOS seems to be hard initially. Keep up with it. Evantually things will start solving. In the first few months try tto focus more on concepts. 
