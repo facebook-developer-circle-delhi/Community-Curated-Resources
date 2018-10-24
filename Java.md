@@ -10,6 +10,6 @@
 ## For People with Intermediate Level Expertise
 
 1.  [JPassion.com. One of the best sources to learn from basics to advanced level Java (Paid)](http://www.jpassion.com/portal/courses)
-2.  [Udemy Become a Complete Java Engineer! (Paid)](https://www.udemy.com/java-in-depth-become-a-complete-java-engineer/)
+1.  [Udemy Become a Complete Java Engineer! (Paid)](https://www.udemy.com/java-in-depth-become-a-complete-java-engineer/)
 
 
