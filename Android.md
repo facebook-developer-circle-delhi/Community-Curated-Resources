@@ -21,11 +21,4 @@
 1.  [Google CodeLabs](https://codelabs.developers.google.com/?cat=Android)
 
 ## For Experts
-### Newsletters (Experts must follow to remain updated with the latest trends)
-
-* [Android Weekly](http://androidweekly.net/) - The newsletter comes once a week and covers a broad range of topics like tutorials, screencasts, news etc just everything that's awesome in the Android Development world!
-
-* [Android Dev Digest](https://www.androiddevdigest.com/) - A Handcrafted Weekly Newsletter for Android Developers
-
-* [Android Sweets](https://androidsweets.ongoodbits.com/) - Weekly Dev Newsletter from Infinum
 
