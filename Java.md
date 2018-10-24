@@ -2,10 +2,10 @@
 
 ## For Beginners
 
-1.  [Udacity Intro to Java Programming (Free)](https://in.udacity.com/course/intro-to-java-programming--cs046)
-1.  [Udacity Java Programming Basics (Free)](https://in.udacity.com/course/java-programming-basics--ud282)
-1.  [Udemy (Free)](https://www.udemy.com/java-tutorial/)
-1.  [Solo learn Java (Free)](https://www.sololearn.com/Course/Java/)
+1.  [Udacity Intro to Java Programming](https://in.udacity.com/course/intro-to-java-programming--cs046)
+1.  [Udacity Java Programming Basics](https://in.udacity.com/course/java-programming-basics--ud282)
+1.  [Udemy Java Tutorial](https://www.udemy.com/java-tutorial/)
+1.  [Solo learn Java](https://www.sololearn.com/Course/Java/)
 
 ## For People with Intermediate Level Expertise
 
