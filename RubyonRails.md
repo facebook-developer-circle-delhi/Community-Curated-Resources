@@ -12,6 +12,7 @@
 1. [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/)
 2. [12 WebApps in 12 Weeks on Rails Playlist](https://youtu.be/7-1HCWbu7iU)
 3. [The Rails 4 Way](http://file.allitebooks.com/20150617/The%20Rails%204%20Way.pdf)
+4. [Rails 4 in Action](http://file.allitebooks.com/20150911/Rails%204%20in%20Action,%20Second%20Edition.pdf)
 
 ## For Experts
 
