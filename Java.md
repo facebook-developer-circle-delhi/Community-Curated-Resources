@@ -12,4 +12,6 @@
 1.  [JPassion.com. One of the best sources to learn from basics to advanced level Java (Paid)](http://www.jpassion.com/portal/courses)
 1.  [Udemy Become a Complete Java Engineer! (Paid)](https://www.udemy.com/java-in-depth-become-a-complete-java-engineer/)
 
+## Understanding The Java Memory Model
 
+1. [The Java Memory Model](http://www.cs.umd.edu/~pugh/java/memoryModel/)
