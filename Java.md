@@ -6,6 +6,8 @@
 1.  [Udacity Java Programming Basics](https://in.udacity.com/course/java-programming-basics--ud282)
 1.  [Udemy Java Tutorial](https://www.udemy.com/java-tutorial/)
 1.  [Solo learn Java](https://www.sololearn.com/Course/Java/)
+1.  [Java Brains](https://www.youtube.com/user/koushks)
+1.  [Java2Blog](https://java2blog.com/)
 
 ## For People with Intermediate Level Expertise
 
