@@ -37,7 +37,7 @@ Community Curated Resources is a collection of list of selected learning materia
 #### Web Development
 
 - [HTML](./HTML.md) -  Standard markup language for creating web pages and web applications 
-- [CSS] (./CSS.md) - Style sheet language that defines presentation of web Page
+- [CSS](./CSS.md) - Style sheet language that defines presentation of web Page
 - [Angular](./Angular.md) - TypeScript-based Front-End Web Application
 - [ReactJS ](./ReactJS.md) - A JavaScript Library for building User Interfaces
 - [Django](./Django.md) - A High-level Python Web framework
