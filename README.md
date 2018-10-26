@@ -9,6 +9,7 @@ Community Curated Resources is a collection of list of selected learning materia
 - [C#](./CSharp.md)
 - [Golang](./Go.md)
 - [Java](./Java.md)
+- [Kotlin](./Kotlin.md)
 - [Python](./Python.md)
 - [Javascript](./Javascript.md)
 - [Elixir](./Elixir.md)
