@@ -6,7 +6,7 @@
 1. [Swift Programming book iBooks](https://itunes.apple.com/us/book/the-swift-programming-language-swift-4-2/id881256329)
 1. [Stanford iOS course on iTunes University](https://itunes.apple.com/us/course/developing-ios-11-apps-with-swift/id1309275316)
 
-1. Stanford's CS193P iOS 11 Swift 4 Course [Youtube](https://www.youtube.com/watch?v=71pyOB4TPRE&index=2&list=PLPA-ayBrweUzGFmkT_W65z64MoGnKRZMq&t=0s)
+1. Stanford's CS193P iOS 11 Swift 4 Course - [Youtube](https://www.youtube.com/watch?v=71pyOB4TPRE&index=2&list=PLPA-ayBrweUzGFmkT_W65z64MoGnKRZMq&t=0s)
 
 1. [Appcoda](http://appcoda.com/)
 1. [Raywenderlich](http://raywenderlich.com/)
