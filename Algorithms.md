@@ -1,9 +1,8 @@
-# DS Related Resources
+# Algorithms Related Resources
 
 ## For Beginners
 
 1.  [Learning References (GeeksForGeeks)](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
-
 
 ## For People with Intermediate Level Expertise
 
