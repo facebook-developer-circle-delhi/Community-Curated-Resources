@@ -29,7 +29,7 @@ Community Curated Resources is a collection of list of selected learning materia
 
 #### Data Structures &  Algorithms
 
-- [Data Structures](./DataStructures.md)
+- [Data Structures](./Data-Structures.md)
 - [Algorithms](./Algorithms.md)
 
 #### Mobile Development
