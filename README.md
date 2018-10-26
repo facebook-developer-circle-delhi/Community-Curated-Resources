@@ -27,6 +27,11 @@ Community Curated Resources is a collection of list of selected learning materia
 
 - [Shell Scripting](./Linux.md)
 
+#### Data Structures &  Algorithms
+
+- [Data Structures](./DataStructures.md)
+- [Algorithms](./Algorithms.md)
+
 #### Mobile Development
 
 - [Android](./Android.md)
@@ -41,7 +46,7 @@ Community Curated Resources is a collection of list of selected learning materia
 - [Angular](./Angular.md) - TypeScript-based Front-End Web Application
 - [ReactJS ](./ReactJS.md) - A JavaScript Library for building User Interfaces
 - [Django](./Django.md) - A High-level Python Web framework
-- [PHP](./PHP.md)
+- [PHP](./PHP.md) - Server Side Scripting Language
 - [Flask](./Flask.md) - A Python Microframework
 - [Ruby on Rails](./RubyonRails.md) 
 
