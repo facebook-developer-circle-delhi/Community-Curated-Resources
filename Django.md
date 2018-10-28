@@ -13,3 +13,4 @@
 1. [Support of MongoDB using Models in pymongo (Pymodm)](https://www.eazydevelop.com/2018/05/working-with-structured-data-with.html)
 
 ## For Experts
+1. [How to make custom Django Middlewares](https://simpleisbetterthancomplex.com/tutorial/2016/07/18/how-to-create-a-custom-django-middleware.html)

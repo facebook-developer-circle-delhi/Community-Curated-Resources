@@ -8,9 +8,11 @@ Community Curated Resources is a collection of list of selected learning materia
 
 - [C#](./CSharp.md)
 - [Golang](./Go.md)
+- [Java](./Java.md)
 - [Python](./Python.md)
 - [Javascript](./Javascript.md)
 - [Elixir](./Elixir.md)
+- [Ruby](./Ruby.md)
 
 #### Data Science
 
@@ -29,12 +31,19 @@ Community Curated Resources is a collection of list of selected learning materia
 
 - [Android](./Android.md)
 - [React Native](./ReactNative.md)
+- [Flutter](./Flutter.md)
+- [iOS](./iOS.md)
 
 #### Web Development
 
+- [HTML](./HTML.md) -  Standard markup language for creating web pages and web applications 
+- [CSS](./CSS.md) - Style sheet language that defines presentation of web Page
 - [Angular](./Angular.md) - TypeScript-based Front-End Web Application
 - [ReactJS ](./ReactJS.md) - A JavaScript Library for building User Interfaces
 - [Django](./Django.md) - A High-level Python Web framework
+- [PHP](./PHP.md)
+- [Flask](./Flask.md) - A Python Microframework
+- [Ruby on Rails](./RubyonRails.md) 
 
 ## Contributing Guidelines
 
