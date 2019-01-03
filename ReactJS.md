@@ -6,6 +6,7 @@
 1. [React Armory](https://reactarmory.com/)
 1. [The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)
 1. [Academind video series](https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)
+1. [React Developer Roadmap](https://github.com/adam-golab/react-developer-roadmap)
 
 ## For People with Intermediate Level Expertise
 
