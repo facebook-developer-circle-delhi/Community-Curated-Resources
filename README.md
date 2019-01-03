@@ -8,6 +8,8 @@ Community Curated Resources is a collection of list of selected learning materia
 
 - [C#](./CSharp.md)
 - [Golang](./Go.md)
+- [Java](./Java.md)
+- [Kotlin](./Kotlin.md)
 - [Python](./Python.md)
 - [Javascript](./Javascript.md)
 - [Elixir](./Elixir.md)
@@ -26,20 +28,29 @@ Community Curated Resources is a collection of list of selected learning materia
 
 - [Shell Scripting](./Linux.md)
 
+#### Data Structures &  Algorithms
+
+- [Data Structures](./Data-Structures.md)
+- [Algorithms](./Algorithms.md)
+
 #### Mobile Development
 
 - [Android](./Android.md)
 - [React Native](./ReactNative.md)
 - [Flutter](./Flutter.md)
+- [iOS](./iOS.md)
 
 #### Web Development
 
+- [HTML](./HTML.md) -  Standard markup language for creating web pages and web applications 
+- [CSS](./CSS.md) - Style sheet language that defines presentation of web Page
 - [Angular](./Angular.md) - TypeScript-based Front-End Web Application
 - [ReactJS ](./ReactJS.md) - A JavaScript Library for building User Interfaces
 - [Django](./Django.md) - A High-level Python Web framework
-- [PHP](./PHP.md)
+- [PHP](./PHP.md) - Server Side Scripting Language
 - [Flask](./Flask.md) - A Python Microframework
-- [Ruby on Rails](./RubyonRails.md) 
+- [NodeJS](.NodeJS.md) - JavaScript runtime built on Chrome's V8 JavaScript engine.
+- [Ruby on Rails](./RubyonRails.md) - A model–view–controller framework, providing default structures for a database, a web service, and web pages.
 
 ## Contributing Guidelines
 
