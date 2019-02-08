@@ -14,6 +14,7 @@ Community Curated Resources is a collection of list of selected learning materia
 - [Javascript](./Javascript.md)
 - [Elixir](./Elixir.md)
 - [Ruby](./Ruby.md)
+- [R](./R.md)
 
 #### Data Science
 
