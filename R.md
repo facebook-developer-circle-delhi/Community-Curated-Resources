@@ -6,8 +6,10 @@
 
 ## For People with Intermediate Level Expertise
 
-1. [Intermediate R](https://www.datacamp.com/courses/intermediate-r), (https://www.datacamp.com/courses/intermediate-r-practice) -[Paid]
-2. [Importing Data in R](https://www.datacamp.com/courses/importing-data-in-r-part-1), (https://www.datacamp.com/courses/importing-data-in-r-part-2) -[Paid]
+1. [Intermediate R](https://www.datacamp.com/courses/intermediate-r)  -[Paid]
+1. [Intermediate R- Practice](https://www.datacamp.com/courses/intermediate-r-practice) -[Paid]
+2. [Importing Data in R (Part-1)](https://www.datacamp.com/courses/importing-data-in-r-part-1) -[Paid]
+2. [Importing Data in R (Part-2)](https://www.datacamp.com/courses/importing-data-in-r-part-2) -[Paid]
 3. [Cleaning Data in R](https://www.datacamp.com/courses/cleaning-data-in-r) -[Paid]
 4. [String Manipulation in R](https://www.datacamp.com/courses/string-manipulation-in-r-with-stringr) -[Paid]
 5. [Writing Functions in R](https://www.datacamp.com/courses/writing-functions-in-r) -[Paid]
