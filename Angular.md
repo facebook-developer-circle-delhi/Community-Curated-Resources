@@ -7,12 +7,6 @@
 
 ## For People with Intermediate Level Expertise
 
-### RXJS - Reactive Programming
-
-1. [Introduction to Reactive Programming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
-2. [RxJS Documentation](https://www.learnrxjs.io/)
-3. [RxJS Marbles - for interactively learn RxJS Observables](https://rxmarbles.com)
-
 ### Integration Testing
 
 1. [Protractor Documentation](http://www.protractortest.org/#/tutorial)
