@@ -11,4 +11,24 @@
 1.  [Tutorial for Seaborn tool](https://elitedatascience.com/python-seaborn-tutorial)
 1.  [Surprise - Recommender System Package](http://surpriselib.com/)
 
-## For Experts
+## Miscellaneous Resources 
+
+101 SLIDES ON MACHINE LEARNING
+
+This presentation has 101 slides explained everything about the Machine learning, Deep learning and its applications. Check it out [here](https://lnkd.in/eY-V6zE).
+
+If you want to know about other data science resources
+
+✅ Step 1 : [Data Science Process](https://lnkd.in/fMHtxYP)
+
+✅ Step 2 : [Data Visualization in Business](https://lnkd.in/fYUCzgC)
+
+✅ Step 3 : [Understand How to answer Why](https://lnkd.in/f396Dqg)
+
+✅ Step 4 : [Know Machine Learning Key Terminology](https://lnkd.in/fCihY9W)
+
+✅ Step 5 : [Understand Machine Learning Implementation](https://lnkd.in/f5aUbBM)
+
+✅ Step 6 : [Machine Learning Applications on Marketing](https://lnkd.in/fUDGAQW)
+
+✅ Step 7 : [Machine Learning Applications on Retail](https://lnkd.in/fihPTJf)
