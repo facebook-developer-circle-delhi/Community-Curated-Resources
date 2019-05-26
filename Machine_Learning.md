@@ -4,20 +4,9 @@
 
 1. [Intro to Machine Learning](https://in.udacity.com/course/intro-to-machine-learning--ud120-india 'Udacity|Intro to Machine Learning')
 
-## For People with Intermediate Level Expertise
+2. [101 SLIDES ON MACHINE LEARNING](https://lnkd.in/eY-V6zE).
 
-1.  [Tutorials for Scikit-Learn](https://github.com/justmarkham/scikit-learn-videos)
-1.  [Introduction to Machine Learning](https://developers.google.com/machine-learning/crash-course/ml-intro)
-1.  [Tutorial for Seaborn tool](https://elitedatascience.com/python-seaborn-tutorial)
-1.  [Surprise - Recommender System Package](http://surpriselib.com/)
-
-## Miscellaneous Resources 
-
-101 SLIDES ON MACHINE LEARNING
-
-This presentation has 101 slides explained everything about the Machine learning, Deep learning and its applications. Check it out [here](https://lnkd.in/eY-V6zE).
-
-If you want to know about other data science resources
+3. 7 Steps to explore Data Science & Machine Learning
 
 ✅ Step 1 : [Data Science Process](https://lnkd.in/fMHtxYP)
 
@@ -32,3 +21,12 @@ If you want to know about other data science resources
 ✅ Step 6 : [Machine Learning Applications on Marketing](https://lnkd.in/fUDGAQW)
 
 ✅ Step 7 : [Machine Learning Applications on Retail](https://lnkd.in/fihPTJf)
+
+
+## For People with Intermediate Level Expertise
+
+1.  [Tutorials for Scikit-Learn](https://github.com/justmarkham/scikit-learn-videos)
+2.  [Introduction to Machine Learning](https://developers.google.com/machine-learning/crash-course/ml-intro)
+3.  [Tutorial for Seaborn tool](https://elitedatascience.com/python-seaborn-tutorial)
+4.  [Surprise - Recommender System Package](http://surpriselib.com/)
+
