@@ -2,8 +2,7 @@
 
 ## For beginner
 1. [Neural Networks and Deep Learning] (https://www.coursera.org/learn/neural-networks-deep-learning)
-
-2. [Deep Learning Specialisation] (https://www.coursera.org/specializations/deep-learning)
+1. [Deep Learning Specialisation] (https://www.coursera.org/specializations/deep-learning)
 
 ## For People with Intermediate Level Expertise
 
