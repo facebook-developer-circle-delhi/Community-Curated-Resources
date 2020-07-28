@@ -16,3 +16,6 @@
 1. [US Governement](https://www.data.gov/)
 1. [National Center for Education Statistics](https://nces.ed.gov/datalab/index.aspx)
 1. [Yelp Datasets](https://www.yelp.com/dataset)
+1. [Datasets Search Engine by Google](https://datasetsearch.research.google.com/)
+1. [Medical Sciences Datasets](https://www.acrdsi.org/DSI-Services/Dataset-Directory)
+
