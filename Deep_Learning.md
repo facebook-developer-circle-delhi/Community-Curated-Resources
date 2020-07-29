@@ -11,4 +11,4 @@
 
 ## For Experts
 
-1. [Applied AI with DeepLearning] (https://www.coursera.org/learn/ai)
+1. [Applied AI with DeepLearning](https://www.coursera.org/learn/ai)
