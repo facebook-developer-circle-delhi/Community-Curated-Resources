@@ -63,7 +63,7 @@ Community Curated Resources is a collection of list of selected learning materia
 
 #### Blockchain Development
 
-- [Ethereum-Hyperledger Fabric](./Ethereum-Hyperledger Fabric.md)
+- [Ethereum-Hyperledger Fabric](./Ethereum-Hyperledger-Fabric.md)
 
 ## Contributing Guidelines
 
