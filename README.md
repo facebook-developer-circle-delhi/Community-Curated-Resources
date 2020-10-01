@@ -1,6 +1,6 @@
 # Community-Curated-Resources
 
-Community Curated Resources is a collection of list of selected learning material for development by members of Facebook Developer Circle Delhi, NCR. These resources are split according to technologies/languages/frameworks. Each topic has a MD file for it. The contents of a file are divided into three levels which are the level of expertise required to understand the resource mentioned (beginner, intermediate and expert).
+Community Curated Resources is a collection of list of selected learning material for development by members of Facebook Developer Circle Delhi, NCR. These resources are split according to technologies/languages/frameworks. Each topic has a MarkDown(.md) file for it. The contents of a file are divided into three levels which are the level of expertise required to understand the resource mentioned (beginner, intermediate and expert).
 
 ## Resources
 
