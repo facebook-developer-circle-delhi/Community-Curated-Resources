@@ -25,7 +25,7 @@ Community Curated Resources is a collection of list of selected learning materia
 
 - [Redux](./Redux.md) - A predictable state container for JavaScript Apps.
 
-#### DataSources 
+#### DataSources
 
 - [DataSets](./DataSets.md) - DataSets for Various Projects.
 
@@ -33,7 +33,7 @@ Community Curated Resources is a collection of list of selected learning materia
 
 - [Shell Scripting](./Linux.md)
 
-#### Data Structures &  Algorithms
+#### Data Structures & Algorithms
 
 - [Data Structures](./Data-Structures.md)
 - [Algorithms](./Algorithms.md)
@@ -47,8 +47,9 @@ Community Curated Resources is a collection of list of selected learning materia
 
 #### Web Development
 
-- [HTML](./HTML.md) -  Standard markup language for creating web pages and web applications 
+- [HTML](./HTML.md) - Standard markup language for creating web pages and web applications
 - [CSS](./CSS.md) - Style sheet language that defines presentation of web Page
+- [JavaScript](./Javascript.md) - Zero to Mastery Ideas of Javascript for web Pages.
 - [Angular](./Angular.md) - TypeScript-based Front-End Web Application
 - [ReactJS ](./ReactJS.md) - A JavaScript Library for building User Interfaces
 - [Django](./Django.md) - A High-level Python Web framework
