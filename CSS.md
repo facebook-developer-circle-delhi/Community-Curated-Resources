@@ -7,5 +7,6 @@
 
 ## For People with Intermediate Level Expertise
 
-
 ## For Experts
+
+1. [Resources to help you to become a CSS Expert](https://m.dotdev.co/148-resources-to-help-you-become-a-css-expert-ced300b173e7)

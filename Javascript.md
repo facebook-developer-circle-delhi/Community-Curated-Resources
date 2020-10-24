@@ -12,3 +12,6 @@
 1. [Server Side Rendering Playlist](https://www.youtube.com/watch?v=nbTn1czE2L8&index=1&list=PLl-K7zZEsYLkbvTj8AUUCfBO7DoEHJ-ME)
 
 ## For Experts
+
+1. [Zero to Mastery](https://zero-to-mastery.github.io/resources/JavaScript.html)
+2. [Modern JavaScript](https://javascript.info/)
