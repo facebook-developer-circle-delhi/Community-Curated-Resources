@@ -62,6 +62,10 @@ Community Curated Resources is a collection of list of selected learning materia
 
 - [AR-VR](./AR-VR.md)
 
+#### Blockchain Development
+
+- [Ethereum-Hyperledger Fabric](./Ethereum-Hyperledger-Fabric.md)
+
 ## Contributing Guidelines
 
 - If you have a resource that you would like to add to the list, add it in the appropriate section of the file (for that specific topic).
