@@ -9,6 +9,7 @@
 ## For People with Intermediate Level Expertise
 
 1. [MDN Docs](https://developer.mozilla.org/bm/docs/Web/JavaScript)
+1. [Compare JSON: Object Keys, Array Order and Record IDs — BestJSON](https://bestjson.com/learn/compare-json-ignore-order)
 1. [Server Side Rendering Playlist](https://www.youtube.com/watch?v=nbTn1czE2L8&index=1&list=PLl-K7zZEsYLkbvTj8AUUCfBO7DoEHJ-ME)
 
 ## For Experts
